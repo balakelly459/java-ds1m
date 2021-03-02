@@ -2,7 +2,7 @@ package trapezio;
 
 public class Trapezio {
 	
-	public static void main(String[] args) {
+	public static void main(String[]; args) {
 		
 		float base1;
 		float  base2;
